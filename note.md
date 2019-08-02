@@ -4,7 +4,7 @@ POST URL:  https://fcm.googleapis.com/fcm/send
 
 Add Headers Authorization: key=<legacy_server_key> OR Authorization: key=<server_key>   
 
-Json example:  
+Json context example:  
 
 Send FCM to single device  :  
 {  
