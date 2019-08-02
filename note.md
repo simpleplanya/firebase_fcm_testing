@@ -5,15 +5,15 @@
 2. Add Headers Authorization: key=<legacy_server_key> OR Authorization: key=<server_key>   
 
 3. Json context example:  
-  Send FCM to single device  :  
-    > {  
-    > "to" : "YOUR_FCM_TOKEN_WILL_BE_HERE",  
-    > "collapse_key" : "type_a",  
-    > "notification" : {  
-    >     "body" : "Body of Your Notification",  
-    >     "title": "Title of Your Notification"  
-    > }  
-    > }  
+    Send FCM to single device  :  
+      > {  
+      > "to" : "YOUR_FCM_TOKEN_WILL_BE_HERE",  
+      > "collapse_key" : "type_a",  
+      > "notification" : {  
+      >     "body" : "Body of Your Notification",  
+      >     "title": "Title of Your Notification"  
+      > }  
+      > }  
 
   Send FCM to multiple device   
     > {  
