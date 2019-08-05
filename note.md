@@ -31,6 +31,6 @@
 
 # Reference :
 -官方文件: https://firebase.google.com/docs/reference/fcm/rest/v1/projects.messages  
--教學範例: https://medium.com/android-school/test-fcm-notification-with-postman-f91ba08aacc  
+-教學範例: https://medium.com/android-school/test-fcm-notification-with-postman-f91ba08aacc
 -Stackoverflow大神: https://stackoverflow.com/questions/45309674/fcm-with-postman-the-request-was-missing-an-authentication-key-fcm-token  
     
